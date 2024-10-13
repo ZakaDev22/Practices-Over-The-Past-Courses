@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New Order Event Example", "New Order Event Example.csproj", "{44B2698E-E800-4952-B040-212FCC25DE71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44B2698E-E800-4952-B040-212FCC25DE71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B2698E-E800-4952-B040-212FCC25DE71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B2698E-E800-4952-B040-212FCC25DE71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B2698E-E800-4952-B040-212FCC25DE71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2A62E42-F8E7-47CA-91B1-39F1C3B00BBA}
+	EndGlobalSection
+EndGlobal

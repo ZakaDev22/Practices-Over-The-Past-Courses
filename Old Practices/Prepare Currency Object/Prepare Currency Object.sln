@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prepare Currency Object", "Prepare Currency Object\Prepare Currency Object.vcxproj", "{1C6B0310-7CCC-4850-B7EB-B7C4884C319C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C6B0310-7CCC-4850-B7EB-B7C4884C319C}.Debug|x64.ActiveCfg = Debug|x64
+		{1C6B0310-7CCC-4850-B7EB-B7C4884C319C}.Debug|x64.Build.0 = Debug|x64
+		{1C6B0310-7CCC-4850-B7EB-B7C4884C319C}.Debug|x86.ActiveCfg = Debug|Win32
+		{1C6B0310-7CCC-4850-B7EB-B7C4884C319C}.Debug|x86.Build.0 = Debug|Win32
+		{1C6B0310-7CCC-4850-B7EB-B7C4884C319C}.Release|x64.ActiveCfg = Release|x64
+		{1C6B0310-7CCC-4850-B7EB-B7C4884C319C}.Release|x64.Build.0 = Release|x64
+		{1C6B0310-7CCC-4850-B7EB-B7C4884C319C}.Release|x86.ActiveCfg = Release|Win32
+		{1C6B0310-7CCC-4850-B7EB-B7C4884C319C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC7F9D5C-0DA8-44B5-AF89-CA8721751D03}
+	EndGlobalSection
+EndGlobal

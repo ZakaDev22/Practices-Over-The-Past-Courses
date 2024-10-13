@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Event With Parameter", "Simple Event With Parameter.csproj", "{3BCC4F40-0ECD-4D6B-8790-A1746441ADD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BCC4F40-0ECD-4D6B-8790-A1746441ADD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BCC4F40-0ECD-4D6B-8790-A1746441ADD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BCC4F40-0ECD-4D6B-8790-A1746441ADD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BCC4F40-0ECD-4D6B-8790-A1746441ADD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07128907-304A-4DF7-81EF-1C0F414080F3}
+	EndGlobalSection
+EndGlobal
